@@ -13,28 +13,10 @@
       "id": 2
     },
     {
-      "title": "sadf",
-      "body": "asdf asdf asd f",
+      "title": "tytuł posta",
+      "body": "cośtam lorem ipsum dolor sit amet i dupa psia na górze róże na dole grzyby",
       "author": "mario",
       "id": 3
-    },
-    {
-      "title": "tytuł",
-      "body": "treść bloga",
-      "author": "yoshi",
-      "id": 4
-    },
-    {
-      "title": "12",
-      "body": "sedfsdf",
-      "author": "mario",
-      "id": 5
-    },
-    {
-      "title": "test",
-      "body": "testowany",
-      "author": "yoshi",
-      "id": 6
     }
   ]
 }
