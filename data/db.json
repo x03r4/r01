@@ -23,6 +23,18 @@
       "body": "treść bloga",
       "author": "yoshi",
       "id": 4
+    },
+    {
+      "title": "12",
+      "body": "sedfsdf",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "body": "testowany",
+      "author": "yoshi",
+      "id": 6
     }
   ]
 }
